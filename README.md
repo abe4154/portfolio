@@ -16,9 +16,11 @@ A5:SQL Mk-2(Version 2.15.2)→データベース管理用
 
 〇TSUBUYAKIフォルダに、作成したWEBアプリケーションのソースコードが保管されています。
 　<ソースコードは下記のように保存されています>
-　　・TSYBUYAKI---src---model、dao、servlet
+　　・TSYBUYAKI---src---modelパッケージ、daoパッケージ、servletパッケージ
 　　・TSYBUYAKI---WebContent---css
 　　・TSYBUYAKI---WebContent---WEB-INF---jsp
+  
+  *ServletパッケージのWelcomeServlet.javaでアプリ起動
   
 〇学べたこと
 ・WEBアプリの基本(画面遷移、スコープ、フォーム)
